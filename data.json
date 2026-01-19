@@ -1,0 +1,34 @@
+{
+    "users": {
+        "7752032178": {
+            "fio": "Sardorbek",
+            "phone": "9293u3",
+            "age": "12",
+            "region": "Toshkent",
+            "course": "Baxt sari yo'l",
+            "username": "Sobirjonovv_dev",
+            "user_id": 7752032178
+        }
+    },
+    "courses": [
+        "Kitobxonlik",
+        "Ingliz tili",
+        "Arab tili",
+        "Notiqlik",
+        "Baxt sari yo'l",
+        "Yangi hayot sari 21 kun",
+        "Vokal darslari",
+        "Tasviriy san'at",
+        "Oila psixologiyasi",
+        "Sog' fikr — sog'lom tana",
+        "Libos dizayni",
+        "Oila akademiyasi"
+    ],
+    "regions": [
+        "Toshkent",
+        "Andijon",
+        "Farg'ona",
+        "Namangan",
+        "Samarqand"
+    ]
+}
